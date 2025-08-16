@@ -1,1 +1,9 @@
-numpy
+streamlit
+openai
+pymupdf
+python-dotenv
+apify-client
+
+
+
+-e .
